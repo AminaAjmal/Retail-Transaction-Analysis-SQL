@@ -115,6 +115,7 @@ The dashboard highlights:
 - Customer distribution by gender
 - Monthly transaction trends
 - Customer age distribution
+  
 ![Retail Transaction Analysis Dashboard](Images/Retail_Transaction_Dashboard.png)
 
 ## Future Improvements
