@@ -42,6 +42,7 @@ To support efficient analysis, two cleaned tables were created:
 
 - SQL
 - SQLiteStudio (Letos)
+- Power BI
 - GitHub
 
 ## Project Workflow
@@ -91,6 +92,7 @@ Retail-Transaction-Analysis-SQL
 │   └── RetailTransactionAnalysis.db
 │
 ├── Images
+│   └── Retail_Transaction_Dashboard.png
 │
 ├── SQL_Files
 │   ├── 00_Dataset_Exploration.sql
@@ -103,12 +105,22 @@ Retail-Transaction-Analysis-SQL
 │
 └── README.md
 ```
+## Power BI Dashboard
+
+An interactive Power BI dashboard was developed to visualize key customer purchasing patterns and transaction activity.
+
+The dashboard highlights:
+- Total customers and transaction records
+- Average basket size
+- Customer distribution by gender
+- Monthly transaction trends
+- Customer age distribution
+![Retail Transaction Analysis Dashboard](Images/Retail_Transaction_Dashboard.png)
 
 ## Future Improvements
 
 Planned enhancements for this project include:
 
-- Creating an interactive Power BI dashboard to visualize key business insights
 - Expanding the dataset to support more comprehensive customer-level analysis
 - Incorporating additional sales and product information to generate deeper business insights
 
@@ -124,5 +136,4 @@ Through these projects, I aim to demonstrate my ability to clean, analyze, and i
 
 **Portfolio Website:** *(Coming Soon)*
 
-Thank you for taking the time to review my project!
 Thank you for taking the time to review my project!
